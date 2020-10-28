@@ -5,7 +5,7 @@ You can play FRIENDS episodes **According to your Mood, or Randomly** with these
 ### I knoww !!!
 
 > * Just place these two files in your root folder of FRIENDS
-> * The director which contains all the folders of individual seasons
+> * The directory which contains all the folders of individual seasons
 > * Now open the file and enjoy your episodes
 
 #### Episode For Your Mood:
